@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tsp-react-portfolio/static/css/main.2202db91.css",
+    "main.js": "/tsp-react-portfolio/static/js/main.3311d749.js",
+    "static/js/453.fbbd0adb.chunk.js": "/tsp-react-portfolio/static/js/453.fbbd0adb.chunk.js",
+    "index.html": "/tsp-react-portfolio/index.html",
+    "main.2202db91.css.map": "/tsp-react-portfolio/static/css/main.2202db91.css.map",
+    "main.3311d749.js.map": "/tsp-react-portfolio/static/js/main.3311d749.js.map",
+    "453.fbbd0adb.chunk.js.map": "/tsp-react-portfolio/static/js/453.fbbd0adb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2202db91.css",
+    "static/js/main.3311d749.js"
+  ]
+}
