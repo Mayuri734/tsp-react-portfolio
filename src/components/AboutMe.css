@@ -1,0 +1,26 @@
+/* src/components/AboutMe.css */
+#aboutme {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .social-media {
+    margin-top: 20px;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Space between icons */
+  }
+  
+  .social-icons a {
+    color: #333; /* Default color for icons */
+    transition: color 0.3s ease;
+  }
+  
+  .social-icons a:hover {
+    color: #4caf50; /* Change color on hover */
+  }
+  
