@@ -8,14 +8,14 @@ function Skills() {
       <h2>My Skills</h2>
       <div className="skill-container">
         <div className="skill">
-          <label>React</label>
+          <label>Core & Advance Java</label>
           <div className="progress-bar">
             <div className="progress" style={{ width: '80%' }}>80%</div>
           </div>
         </div>
 
         <div className="skill">
-          <label>JavaScript</label>
+          <label>RDBMS</label>
           <div className="progress-bar">
             <div className="progress" style={{ width: '90%' }}>90%</div>
           </div>
@@ -29,7 +29,7 @@ function Skills() {
         </div>
 
         <div className="skill">
-          <label>Node.js</label>
+          <label>Javascript</label>
           <div className="progress-bar">
             <div className="progress" style={{ width: '70%' }}>70%</div>
           </div>
@@ -37,6 +37,6 @@ function Skills() {
       </div>
     </section>
   );
-}
+}    
 
 export default Skills;
