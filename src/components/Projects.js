@@ -12,8 +12,8 @@ const projects = [
   {
     title: "Thirdeye",
     description: "A women safety app that connects users to emergency services and contacts.",
-    technologies: "HTML, CSS, JavaScript, Python",
-    link: "https://github.com/your-repo/thirdeye" // Replace with your actual project link
+    technologies: "Android Studio, Java, XML, MySql",
+    link: "https://github.com/Mayuri734/LogSignSQL" // Replace with your actual project link
   },
   {
     title: "FeedForward",
